@@ -1,0 +1,27 @@
+# Core Frameworks (version-pinned for compatibility)
+streamlit==1.54.0
+autogen-core==0.7.5
+autogen-agentchat==0.7.5
+openai==1.16.0
+python-dotenv==1.2.1
+tiktoken==0.6.0
+requests==2.31.0
+
+# Vector Database & RAG
+chromadb==0.4.24
+sentence-transformers==2.2.2
+numpy==1.26.4
+
+# PDF Processing (lab report extraction)
+pypdf==4.2.0
+pdfplumber==0.10.2
+
+# Image Processing (required by Streamlit + ChromaDB)
+pillow==12.1.0
+
+# File Upload Support
+python-multipart==0.0.9
+
+# Utilities
+jsonschema==4.19.2
+loguru==0.7.2

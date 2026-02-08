@@ -1,0 +1,163 @@
+[
+  {
+    "example_id": "us_case_001",
+    "patient_context": {
+      "age": 35,
+      "sex": "Female",
+      "symptoms": [
+        "fatigue",
+        "shortness of breath with stairs",
+        "brittle nails"
+      ],
+      "labs": {
+        "hemoglobin_g_dl": 9.8,
+        "serum_iron_mcmol_l": 7.2,
+        "ferritin_ng_ml": 18,
+        "transferrin_g_l": 3.8,
+        "tibc_mcmol_l": 78,
+        "tsh_miul": 2.1,
+        "free_t4_ng_dl": 1.15,
+        "fasting_glucose_mg_dl": 92
+      },
+      "questionnaire": "Heavy menstrual bleeding (7 days, pad change every 2 hours). Last period 10 days ago. No gastrointestinal symptoms. No family history of bleeding disorders."
+    },
+    "physician_recommendation": {
+      "block_1_normal_systems": "Normal thyroid function tests (TSH and free T4 within reference ranges) indicate preserved thyroid gland activity. Normal fasting glucose level suggests absence of carbohydrate metabolism disorders at present. Normal kidney and liver function markers indicate adequate organ function.",
+      "block_2_abnormalities": "Decreased hemoglobin to 9.8 g/dL with simultaneously low serum iron (7.2 µmol/L) and ferritin (18 ng/mL) corresponds to iron deficiency anemia. Elevated transferrin and total iron binding capacity confirm depletion of iron stores. The most probable cause in this case is heavy menstrual blood loss described in the history. Ferritin below 30 ng/mL confirms iron deficiency even without pronounced anemia. Additional contributing factors may include insufficient dietary iron intake or impaired absorption.",
+      "block_3_symptom_correlation": "Fatigue and shortness of breath with physical exertion are typical manifestations of anemia, resulting from reduced oxygen-carrying capacity of blood. Brittle nails frequently occur with chronic iron deficiency and may persist even after hemoglobin normalization. Symptoms correlate with identified laboratory abnormalities and form a clinical picture characteristic of iron deficiency state.",
+      "block_4_additional_tests": "For clarification of iron deficiency cause, measurement of soluble transferrin receptor (sTfR) and sTfR/log ferritin ratio may be useful. In case of persistent anemia after 3 months of iron therapy, gastroenterology consultation and upper endoscopy may be considered to exclude occult gastrointestinal bleeding. Preparation for endoscopic procedures is determined individually by the treating physician. Repeat blood tests (complete blood count, ferritin, serum iron) may be appropriate after 4 weeks of therapy to assess dynamics.",
+      "block_5_specialist_consultations": "Given heavy menstrual bleeding, gynecology consultation may be appropriate to evaluate need for menstrual cycle regulation. If anemia persists after 3 months of adequate iron therapy, hematology consultation may be considered to exclude other anemia causes. In case of gastrointestinal bleeding signs, gastroenterology consultation is indicated.",
+      "iron_supplementation_guidance": "For iron deficiency, iron supplementation of 100-200 mg elemental iron daily for 3-6 months may be considered to replenish stores. After hemoglobin normalization, therapy continues 3-6 additional months to restore iron depots. Ferrous formulations (sulfate, fumarate, gluconate) are preferred. For improved absorption, administration on empty stomach 1 hour before meals or 2 hours after meals is recommended. Concurrent intake with coffee, tea, dairy products, and calcium supplements should be avoided as they reduce iron absorption. Rich sources of highly absorbable heme iron include red meat, liver, and fish. Plant sources (non-heme iron) have lower bioavailability but absorption improves with concurrent vitamin C intake."
+    }
+  },
+  {
+    "example_id": "us_case_002",
+    "patient_context": {
+      "age": 52,
+      "sex": "Male",
+      "symptoms": [
+        "dry mouth",
+        "frequent urination",
+        "occasional foot numbness"
+      ],
+      "labs": {
+        "fasting_glucose_mg_dl": 134,
+        "hba1c_percent": 6.9,
+        "fasting_insulin_muu_ml": 24.5,
+        "homa_ir": 4.1,
+        "ldl_cholesterol_mg_dl": 163,
+        "triglycerides_mg_dl": 250,
+        "creatinine_mg_dl": 1.1,
+        "egfr_ml_min_173m2": 82,
+        "tsh_miul": 3.8
+      },
+      "questionnaire": "BMI 31.2 kg/m². Father has type 2 diabetes. Sedentary office job. No regular exercise. No known cardiovascular disease. No medication use."
+    },
+    "physician_recommendation": {
+      "block_1_normal_systems": "Normal thyroid function (TSH within reference range) excludes thyroid pathology influence on glucose metabolism. Preserved kidney function (creatinine normal, eGFR 82 mL/min/1.73m²) indicates absence of significant nephropathy. Normal liver function markers suggest adequate detoxification capacity.",
+      "block_2_abnormalities": "Elevated fasting glucose to 134 mg/dL and hemoglobin A1c to 6.9% meet diagnostic criteria for type 2 diabetes mellitus per ADA guidelines. Elevated HOMA-IR index (4.1) indicates insulin resistance as the primary pathogenetic mechanism. Fasting hyperinsulinemia (24.5 µU/mL) reflects compensatory hypersecretion by pancreatic beta cells. Dyslipidemia (elevated LDL cholesterol and triglycerides) represents a typical component of metabolic syndrome and increases cardiovascular risk. Contributing risk factors include overweight status (BMI 31.2 kg/m²), family history of type 2 diabetes, and likely sedentary lifestyle.",
+      "block_3_symptom_correlation": "Dry mouth and polyuria represent classic symptoms of hyperglycemia, resulting from osmotic diuresis when blood glucose exceeds renal threshold. Foot numbness may indicate early manifestations of diabetic neuropathy requiring further evaluation. Symptom complex correlates with identified carbohydrate metabolism disturbances and forms a clinical picture characteristic of decompensated type 2 diabetes mellitus.",
+      "block_4_additional_tests": "For diagnostic confirmation and complication assessment, glutamic acid decarboxylase (GAD) antibody testing may be considered to exclude latent autoimmune diabetes in adults. Microalbuminuria screening (urine albumin-to-creatinine ratio in first morning void) may be useful for early diabetic nephropathy detection. Dilated eye examination is recommended to exclude diabetic retinopathy; preparation includes mydriatic drops causing temporary driving impairment. ECG and cardiovascular risk assessment using ASCVD risk calculator may be appropriate given dyslipidemia. Indications for instrumental testing should be determined by a physician during in-person consultation.",
+      "block_5_specialist_consultations": "Given identified carbohydrate metabolism disturbances, endocrinology consultation may be appropriate for management strategy determination and potential antihyperglycemic therapy initiation. If diabetic neuropathy is confirmed, neurology consultation may be considered. Given dyslipidemia and elevated cardiovascular risk, cardiology consultation may be useful for determining need for lipid-lowering therapy."
+    }
+  },
+  {
+    "example_id": "us_case_003",
+    "patient_context": {
+      "age": 48,
+      "sex": "Female",
+      "symptoms": [
+        "fatigue",
+        "5 kg weight gain over 6 months",
+        "dry skin",
+        "constipation",
+        "missed periods"
+      ],
+      "labs": {
+        "tsh_miul": 8.4,
+        "free_t4_ng_dl": 1.12,
+        "anti_tpo_iu_ml": 285,
+        "anti_tg_iu_ml": 112,
+        "total_cholesterol_mg_dl": 263,
+        "ldl_cholesterol_mg_dl": 178,
+        "fasting_glucose_mg_dl": 96,
+        "ferritin_ng_ml": 42,
+        "vitamin_b12_pg_ml": 320,
+        "folate_ng_ml": 9.2
+      },
+      "questionnaire": "Last menstrual period 2 months ago. Planning pregnancy. No known thyroid disease. Mother has Hashimoto's thyroiditis. No medication use except prenatal vitamins."
+    },
+    "physician_recommendation": {
+      "block_1_normal_systems": "Normal free T4 level with elevated TSH indicates compensated nature of thyroid dysfunction. Preserved liver and kidney function (markers within normal range) excludes somatic pathology influence on thyroid status. Normal vitamin B12 and folate levels exclude megaloblastic anemia as cause of symptoms. Normal glucose metabolism markers indicate absence of glycemic disturbances.",
+      "block_2_abnormalities": "Elevated TSH to 8.4 µIU/mL with normal free T4 corresponds to subclinical hypothyroidism. High anti-thyroid peroxidase antibody titer (285 IU/mL) indicates autoimmune etiology, most likely Hashimoto's thyroiditis. Mildly elevated anti-thyroglobulin antibodies (112 IU/mL) further support autoimmune process. Dyslipidemia (hypercholesterolemia) frequently accompanies hypothyroidism and may partially normalize after achieving euthyroid state. Amenorrhea for 2 months in a reproductive-age woman may relate to hypothyroidism as thyroid dysfunction affects hypothalamic-pituitary-ovarian axis. Risk factors for autoimmune thyroiditis include female sex, age over 40, and genetic predisposition.",
+      "block_3_symptom_correlation": "Fatigue, weight gain, dry skin, and constipation represent typical manifestations of hypothyroidism resulting from decreased basal metabolic rate and slowed metabolic processes. Amenorrhea may relate to both hypothyroidism and perimenopausal transition, requiring differential diagnosis. Symptoms correlate with identified laboratory abnormalities and form a clinical picture characteristic of autoimmune subclinical hypothyroidism.",
+      "block_4_additional_tests": "Given pregnancy planning, prolactin level determination may be useful to exclude hyperprolactinemia as cause of amenorrhea. Thyroid ultrasound may be considered to evaluate gland structure and detect nodular formations. TSH receptor antibody testing may be appropriate during pregnancy planning to assess transplacental antibody transfer risk. Repeat TSH and free T4 testing after 2-3 months is recommended to confirm persistence of abnormalities. For pregnancy planning, target TSH should be less than 2.5 µIU/mL per American Thyroid Association guidelines. Indications for imaging studies should be determined by a physician during in-person consultation.",
+      "block_5_specialist_consultations": "Given subclinical hypothyroidism and pregnancy planning, endocrinology consultation may be appropriate to determine management strategy and potential levothyroxine initiation. If amenorrhea persists after thyroid status correction, gynecology-endocrinology consultation may be considered. Given dyslipidemia, primary care consultation may be useful for evaluating need for lipid-lowering therapy after achieving euthyroid state."
+    }
+  },
+  {
+    "example_id": "us_case_004",
+    "patient_context": {
+      "age": 62,
+      "sex": "Male",
+      "symptoms": [
+        "occasional chest discomfort with exertion",
+        "erectile dysfunction",
+        "mild shortness of breath climbing 2 flights"
+      ],
+      "labs": {
+        "total_cholesterol_mg_dl": 248,
+        "ldl_cholesterol_mg_dl": 168,
+        "hdl_cholesterol_mg_dl": 38,
+        "triglycerides_mg_dl": 210,
+        "fasting_glucose_mg_dl": 112,
+        "hba1c_percent": 6.1,
+        "alt_u_l": 48,
+        "ast_u_l": 42,
+        "creatinine_mg_dl": 1.3,
+        "egfr_ml_min_173m2": 68,
+        "crp_mg_dl": 0.42
+      },
+      "questionnaire": "BMI 29.8 kg/m². Smokes 10 cigarettes daily for 35 years. Hypertension diagnosed 5 years ago, takes lisinopril 10mg daily. Father died of myocardial infarction at age 65. No regular exercise. Drinks alcohol socially (2-3 drinks/week)."
+    },
+    "physician_recommendation": {
+      "block_1_normal_systems": "Normal C-reactive protein level (0.42 mg/dL) suggests absence of significant systemic inflammation. Preserved liver transaminases (ALT and AST mildly elevated but within acceptable range for metabolic syndrome) indicate no significant hepatic injury. Adequate kidney function (eGFR 68 mL/min/1.73m²) despite mild creatinine elevation reflects expected age-related decline rather than acute pathology.",
+      "block_2_abnormalities": "Atherogenic dyslipidemia pattern with elevated LDL cholesterol (168 mg/dL), low HDL cholesterol (38 mg/dL), and elevated triglycerides (210 mg/dL) significantly increases cardiovascular risk. Impaired fasting glucose (112 mg/dL) and elevated HbA1c (6.1%) indicate prediabetes per ADA criteria. Combined with hypertension, overweight status, and smoking history, these findings constitute metabolic syndrome per NCEP ATP III criteria. Current 10-year ASCVD risk calculated at approximately 18% using Pooled Cohort Equations, placing patient in high-risk category requiring intensive risk factor modification. Contributing factors include smoking, sedentary lifestyle, dietary patterns, and genetic predisposition.",
+      "block_3_symptom_correlation": "Exertional chest discomfort may represent anginal symptoms requiring cardiovascular evaluation. Erectile dysfunction frequently associates with endothelial dysfunction and early vascular disease in metabolic syndrome. Mild exertional dyspnea may reflect early cardiac deconditioning or diastolic dysfunction. Symptom complex correlates with identified metabolic abnormalities and elevated cardiovascular risk profile.",
+      "block_4_additional_tests": "Resting electrocardiogram may be useful as baseline cardiac assessment. Exercise stress testing or coronary calcium scoring may be considered to evaluate for obstructive coronary artery disease given symptom profile and risk factors. Liver ultrasound may be appropriate to exclude non-alcoholic fatty liver disease given metabolic profile. Urine albumin-to-creatinine ratio screening recommended for early diabetic kidney disease detection despite prediabetes status. Preparation for stress testing includes medication adjustments determined by cardiologist. Indications for cardiovascular testing should be determined by a physician during in-person consultation.",
+      "block_5_specialist_consultations": "Cardiology consultation may be appropriate given symptom profile, high ASCVD risk, and need for comprehensive cardiovascular risk assessment. Endocrinology consultation may be considered for prediabetes management strategy. Given smoking history and metabolic profile, smoking cessation program referral may be beneficial. Nutrition consultation may be useful for medical nutrition therapy targeting weight reduction and lipid profile improvement."
+    }
+  },
+  {
+    "example_id": "us_case_005",
+    "patient_context": {
+      "age": 68,
+      "sex": "Female",
+      "symptoms": [
+        "generalized bone pain",
+        "muscle weakness",
+        "history of wrist fracture after minor fall 1 year ago"
+      ],
+      "labs": {
+        "vitamin_d_ng_ml": 18,
+        "calcium_mg_dl": 9.1,
+        "phosphorus_mg_dl": 3.2,
+        "alkaline_phosphatase_u_l": 118,
+        "pth_pg_ml": 68,
+        "tsh_miul": 2.4,
+        "free_t4_ng_dl": 1.22,
+        "creatinine_mg_dl": 0.9,
+        "egfr_ml_min_173m2": 72
+      },
+      "questionnaire": "Postmenopausal for 15 years. No hormone replacement therapy. Limited sun exposure (lives in northern latitude, spends most time indoors). Dietary calcium intake approximately 500 mg daily. No regular vitamin D supplementation. Mother had hip fracture at age 78. Walks 15 minutes daily."
+    },
+    "physician_recommendation": {
+      "block_1_normal_systems": "Normal thyroid function tests exclude thyroid pathology contribution to bone metabolism disturbances. Adequate kidney function (eGFR 72 mL/min/1.73m²) indicates preserved vitamin D activation capacity despite age-related decline. Normal serum calcium and phosphorus levels suggest compensated mineral metabolism despite vitamin D deficiency.",
+      "block_2_abnormalities": "Vitamin D level of 18 ng/mL indicates deficiency per Endocrine Society guidelines (deficiency <20 ng/mL, insufficiency 21-29 ng/mL). Elevated parathyroid hormone (68 pg/mL) represents secondary hyperparathyroidism in response to vitamin D deficiency and reduced intestinal calcium absorption. Mildly elevated alkaline phosphatase may reflect increased bone turnover. Risk factors include advanced age, postmenopausal status, limited sun exposure, inadequate dietary intake, northern latitude residence, and genetic predisposition to osteoporosis. This biochemical profile significantly increases fracture risk beyond that expected from age and menopause alone.",
+      "block_3_symptom_correlation": "Generalized bone pain and proximal muscle weakness represent classic manifestations of vitamin D deficiency osteomalacia in adults. Prior low-trauma wrist fracture indicates compromised bone strength consistent with combined osteoporosis and osteomalacia. Symptom complex correlates with identified biochemical abnormalities and elevated fracture risk profile.",
+      "block_4_additional_tests": "Dual-energy X-ray absorptiometry (DXA) scan of lumbar spine and hip may be appropriate to assess bone mineral density and diagnose osteoporosis. Vertebral fracture assessment (lateral spine imaging) may be considered given prior fracture history. Repeat vitamin D level after 3 months of supplementation recommended to confirm repletion. Calcium 24-hour urine collection may be useful before initiating high-dose vitamin D to exclude hypercalciuria. Preparation for DXA scan includes avoiding calcium supplements 24 hours prior and wearing clothing without metal zippers. Indications for bone density testing should be determined by a physician during in-person consultation.",
+      "block_5_specialist_consultations": "Endocrinology or rheumatology consultation may be appropriate for comprehensive metabolic bone disease evaluation and management strategy determination. Given prior fracture and elevated fracture risk, specialist consultation may be beneficial for determining need for pharmacologic osteoporosis therapy beyond calcium and vitamin D supplementation.",
+      "vitamin_d_supplementation_guidance": "For vitamin D deficiency, supplementation with 50,000 IU vitamin D2 or D3 weekly for 8 weeks may be considered to achieve repletion, followed by maintenance dosing of 800-2000 IU daily. Alternative regimen includes 6000 IU daily for 8 weeks followed by maintenance dosing. Calcium supplementation of 1200 mg elemental calcium daily (diet plus supplements) may be appropriate given dietary intake assessment. Vitamin D level retesting after 3-4 months of supplementation recommended to confirm target level of 30-50 ng/mL. All supplementation should occur under physician supervision with periodic monitoring of calcium levels to exclude hypercalcemia."
+    }
+  }
+]
