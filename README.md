@@ -204,7 +204,7 @@ A: Minimum 20 for basic functionality, but 50+ examples significantly improve RA
 
 For questions, feature requests, or collaboration opportunities:
 
-- ***Kaggle Writeups**: [MedRec AI: Multi-Agent Clinical Decision Support](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/medrec-ai-clinical-support)
+- **Kaggle Writeups**: [MedRec AI: Multi-Agent Clinical Decision Support](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/medrec-ai-clinical-support)
 - **Kaggle Discussion**: [MedGemma Impact Challenge Forum](https://www.kaggle.com/competitions/med-gemma-impact-challenge/discussion)
 - **GitHub Issues**: Open an issue in this repository
 - **Email**: [proger.vl@gmail.com](mailto:proger.vl@gmail.com)
